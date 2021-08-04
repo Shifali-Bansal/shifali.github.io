@@ -93,9 +93,6 @@
   background: #3498db;
   color:#fff;
 }
-.header-img{
-  width:100%;
-}
 #header .animated{
   animation:up-down 2s ease-in-out infinite  alternate-reverse both;
 }
